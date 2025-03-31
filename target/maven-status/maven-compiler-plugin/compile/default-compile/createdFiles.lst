@@ -1,0 +1,5 @@
+com/example/demo/model/Movie.class
+com/example/demo/service/MovieService.class
+com/example/demo/MainApplication.class
+com/example/demo/repository/MovieRepository.class
+com/example/demo/controller/MovieController.class
